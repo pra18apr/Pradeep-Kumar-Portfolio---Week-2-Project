@@ -14,3 +14,8 @@ This webpage displays my portfolio of work and can showcase my skills and talent
 ## Learning Points
 
 In this Challenge I have set myself up for future success by applying the core skills I've recently learned, such as, flexbox, media queries, and CSS variables.
+
+
+![image](https://user-images.githubusercontent.com/130611291/235416030-7dd6ddfa-ff15-479a-b11f-3916a5110061.png)
+
+images are loading up in VS code but not sure why are they not showing up when opening webpage through Github, images path is correct aswell.
